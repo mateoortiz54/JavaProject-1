@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootDataJpaApplication<spring-boot-data-jpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bolsadeideas.springboot.datajpa.app.springbootdatajpa.SpringBootDataJpaApplication",
+            "projectName": "spring-boot-data-jpa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
