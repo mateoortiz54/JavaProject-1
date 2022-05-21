@@ -27,7 +27,7 @@ public class ProductoController {
     //private IProductoService productoService;
     /*@Qualifier("ClienteDaoJPA")//Identifica cual repositorio usar
     private IClienteDao clienteDao;//Instancia */
-
+    //hola mundo
 
     @GetMapping("/listarProductos")
     public String listarProductos(Model model){ //Asigno información a los templates, con los models
